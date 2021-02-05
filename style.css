@@ -1,0 +1,86 @@
+.pirveli{
+	background-color: grey;
+	border: 3px solid black;
+}
+
+.satauri{
+	font-size: 30px;
+	text-align: center;
+	color: blue;
+
+}
+.qvesatauri {
+	font-size: 20px;
+	color: #fff;
+
+}
+.artemida{
+	height: 300px;
+	width: 300px;
+	padding-top: 20px;
+
+	
+}
+.artemidatext{
+	font-size: 20px;
+	display: inline-block;
+	padding-left: 20px;
+}
+.meore{
+	background-color: green;
+	border: 5px solid black;
+
+}
+
+.xeofsi{
+	font-size: 20px;
+	color: #fff;
+
+}
+.img{
+	height: 300px;
+	width: 300px;
+	padding-top: 20px;
+
+	
+}
+
+
+.xeofstext{
+	font-size: 20px;
+	display: inline-block;
+	padding-left: 20px;
+	text-align: center;
+	margin: 0 0 100px 0;
+
+}
+
+.mesame{
+	background-color: orange;
+	border: 5px solid black;
+	
+}
+.babiloni {
+	font-size: 20px;
+	color: white;
+
+}
+.babimg{
+	height: 300px;
+	width: 300px;
+	padding-top: 20px;
+	
+	
+
+	
+}
+.babtex{
+	font-size: 20px;
+	padding-left: 20px;
+	display: inline-block;
+}
+.dashoreba{
+	margin-top: 30px;
+}
+
+	
